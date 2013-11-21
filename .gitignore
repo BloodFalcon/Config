@@ -213,3 +213,35 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#UDK
+DefaultCharInfo.ini
+DefaultEditorKeyBindings.ini
+DefaultEditorUDK.ini
+DefaultEditorUserSettings.ini
+DefaultEngineUDK.ini
+DefaultGameUDK.ini
+DefaultInputDefaults.ini
+DefaultLightmass.ini
+DefaultUI.ini
+DefaultWeapon.ini
+DefaultWeaponDefaults.ini
+UDKAnimSetViewer_layoutAUI_INT.txt
+UDKCascade_layoutAUI_INT.txt
+UDKCharInfo.ini
+UDKEditor.ini
+UDKEditorKeyBindings.ini
+UDKEditorUserSettings.ini
+UDKEngine.ini
+UDKGame.ini
+UDKInput.ini
+UDKKismet_layoutAUI_INT.txt
+UDKLightmass.ini
+UDKMaterialEditor_layoutAUI_INT.txt
+UDKSystemSettings.ini
+UDKUI.ini
+UDKWeapon.ini
+IPhone/
+Mac/
+Mobile/
+UnrealFrontend.DefaultProfiles/
