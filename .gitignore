@@ -241,7 +241,12 @@ UDKMaterialEditor_layoutAUI_INT.txt
 UDKSystemSettings.ini
 UDKUI.ini
 UDKWeapon.ini
-IPhone/
+UDKStaticMeshEditor_layoutAUI_INT.txt
+UDKMatinee_layoutAUI_INT.txt
 Mac/
 Mobile/
 UnrealFrontend.DefaultProfiles/
+IPhoneEngine.ini
+IPhoneInput.ini
+IPhoneSystemSettings.ini
+IPhoneGame.ini
